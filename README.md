@@ -7,7 +7,7 @@
 - 👨‍💻 Bacharelando em Engenharia de Software
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Sempre empolgado com novos desafios
-- 
+
 <!-- 
 <div align="left">
   
