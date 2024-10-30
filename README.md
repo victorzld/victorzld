@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictor-andrade/)](https://www.linkedin.com/in/lvictor-andrade/)
 
 ## Meu nome é Luiz Victor
-( HTML | CSS | React JS | Next.js | Javascript | TypeScript | Node ) 🚀
+( HTML | CSS | Javascript | TypeScript | React JS | Next.js | Node ) 🚀
 - 👨‍💻 Bacharelando em Engenharia de Software
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Sempre empolgado com novos desafios
