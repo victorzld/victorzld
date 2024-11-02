@@ -8,13 +8,16 @@
 - 🌐 Apaixonado por desenvolvimento web
 - 💡 Sempre empolgado com novos desafios
 
-<!-- 
-<div align="left">
-  
-[![Luiz top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorzld&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
- -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorzld&show_icons=true&theme=tokyonight)
+<div align="left";>
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorzld&show_icons=true&theme=tokyonight)
+</div>
+
+
+  
+
+
+ 
+
  
