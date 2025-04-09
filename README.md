@@ -1,9 +1,7 @@
-<h1>Olá, tudo bom!? Seja vem vindo 👋👋</h1>
+<h1>Olá, forasteiro 👋👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictor-andrade/)](https://www.linkedin.com/in/lvictor-andrade/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://https://www.victorzld.com.br/)](https://www.victorzld.com.br/)
-
-## Meu nome é Luiz Victor
 
 <img 
     align="left" 
@@ -78,17 +76,24 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
-
-
-<br>
-<br>
 <br>
 
-- 👨‍💻 Bacharelando em Engenharia de Software
-- 🌐 Apaixonado por desenvolvimento web
-- 💡 Sempre empolgado com novos desafios
+## Informação ao público
 
+<p>
+    Sou estudante de Engenharia de Software, tenho experiência em Java, Spring Boot, JavaScript, Node.js, Next.js, Docker, PostgreSQL, AWS.    
+</p>
+<p>
+    Minha jornada na programação começou em 2022, e desde então trabalhei em alguns projetos profissionais e pessoais.
+</p>
 
+## Informações detalhadas
+
+- **Nome**: Luiz Victor
+- **Idade**: 26
+- **Moro em**: Vitória - ES
+- **Stack**: Java - Spring - SQL - PostgreSQL - AWS - Azure
+- **Universidade**: 5º período de Engenharia de Software
 
 ### 📊 Estatísticas
 
