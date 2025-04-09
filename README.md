@@ -1,6 +1,7 @@
 <h1>Olá, tudo bom!? 👋👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictor-andrade/)](https://www.linkedin.com/in/lvictor-andrade/)
+[![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://https://www.victorzld.com.br/)](https://www.victorzld.com.br/)
 
 ## Meu nome é Luiz Victor
 
