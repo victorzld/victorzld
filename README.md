@@ -92,7 +92,7 @@
 - **Nome**: Luiz Victor
 - **Idade**: 26
 - **Moro em**: Vitória - ES
-- **Stack**: Java - Spring - SQL - PostgreSQL - AWS - Azure
+- **Stack**: Java - Spring - SQL - PostgreSQL - AWS 
 - **Universidade**: 5º período de Engenharia de Software
 
 ### 📊 Estatísticas
