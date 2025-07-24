@@ -1,39 +1,24 @@
-<h1>Olá, forasteiro 👋👋</h1>
+<h1>Ola 👋🏻</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictor-andrade/)](https://www.linkedin.com/in/lvictor-andrade/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://https://www.victorzld.com.br/)](https://www.victorzld.com.br/)
 
+
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Go" 
+    title="Go"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Spring" 
-    title="Spring"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -42,22 +27,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
@@ -76,26 +45,48 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
-<br>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
-## Informação ao público
+<br><br/>
+
+## 🧑🏻‍💻 Informações detalhadas
 
 <p>
-    Sou estudante de Engenharia de Software, tenho experiência em Java, Spring Boot, JavaScript, Node.js, Next.js, Docker, PostgreSQL, AWS.    
+    Engenheiro de Software e Desenvolvedor Full Stack,   
 </p>
 <p>
-    Minha jornada na programação começou em 2022, e desde então trabalhei em alguns projetos profissionais e pessoais.
+    Desde 2021 atuando em aplicações web e mobile.
 </p>
 
-## Informações detalhadas
+- Luiz Victor
+- 27
+- Go, TypeScript, Next.js
+- Engenheiro de Software na <a href="https://www.nexux.com/pt">Nexux</a>
 
-- **Nome**: Luiz Victor
-- **Idade**: 26
-- **Moro em**: Vitória - ES
-- **Stack**: Java - Spring - SQL - PostgreSQL - AWS 
-- **Universidade**: 5º período de Engenharia de Software
-
-### 📊 Estatísticas
+## 📊 Highlighted Technologies
 
 <p>
 <img 
