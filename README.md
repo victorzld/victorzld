@@ -78,7 +78,7 @@
     Software Engineer and Full Stack Developer,
 </p>
 <p>
-    Working on web and mobile applications since 2021.
+    Working on web and mobile applications since 2022.
 </p>
 
 - Luiz Victor;
