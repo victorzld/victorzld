@@ -1,4 +1,4 @@
-<h1>Ola 👋🏻</h1>
+<h1>Hello 👋🏻</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvictor-andrade/)](https://www.linkedin.com/in/lvictor-andrade/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://https://www.victorzld.com.br/)](https://www.victorzld.com.br/)
@@ -72,19 +72,19 @@
 
 <br><br/>
 
-## 🧑🏻‍💻 Informações detalhadas
+## 🧑🏻‍💻 Detailed Information
 
 <p>
-    Engenheiro de Software e Desenvolvedor Full Stack,   
+    Software Engineer and Full Stack Developer,
 </p>
 <p>
-    Desde 2021 atuando em aplicações web e mobile.
+    Working on web and mobile applications since 2021.
 </p>
 
-- Luiz Victor
-- 27
-- Go, TypeScript, Next.js
-- Engenheiro de Software na <a href="https://www.nexux.com/pt">Nexux</a>
+- Luiz Victor;
+- 27;
+- Go, TypeScript, Next.js;
+- Software Engineer at <a href="https://www.nexux.com/en">Nexux</a>
 
 ## 📊 Highlighted Technologies
 
@@ -95,7 +95,6 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorzld&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
   
