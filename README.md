@@ -75,7 +75,7 @@
 
 - Luiz Victor;
 - 27;
-- Go, TypeScript, Next.js;
+- Java, TypeScript, Next.js;
 - Software Engineer at <a href="https://www.nexux.com/en">Nexux</a>
 
 ## 📊 Highlighted Technologies
