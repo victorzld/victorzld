@@ -4,14 +4,7 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://https://www.victorzld.com.br/)](https://www.victorzld.com.br/)
 
 
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="Java" 
