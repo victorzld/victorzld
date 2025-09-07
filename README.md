@@ -74,7 +74,7 @@
 </p>
 
 - Luiz Victor;
-- 27;
+- Brazilian;
 - Java, TypeScript, Next.js;
 - Software Engineer at <a href="https://www.nexux.com/en">Nexux</a>
 
