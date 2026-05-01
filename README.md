@@ -45,6 +45,14 @@
 />
 <img 
     align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Oracle" 
     title="Oracle"
     width="30px" 
